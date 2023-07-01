@@ -15,7 +15,7 @@ import { LoadingButton } from '@mui/lab'
 import { Character } from './components/Character'
 import { CharacterSkeleton } from './components/CharacterSkeleton'
 
-const API_WEATHER = `http://api.weatherapi.com/v1/current.json?key=49fb16b29e814245933193631233006&q=`
+const API_WEATHER = `https://api.weatherapi.com/v1/current.json?key=49fb16b29e814245933193631233006&q=`
 
 const navLinks = [
   {
