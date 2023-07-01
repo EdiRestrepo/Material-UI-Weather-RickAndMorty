@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Material-UI-Weather-Rick-And-Morty/",
+  base: "/Material-UI-Weather-RickandMorty/",
 })
